@@ -15,7 +15,7 @@ The C++ portion of this is a program I wrote which was requested by Lt. Rocky.
 The Python portion is a script written by Lt. Rocky, used to help interface with Blender.
 
 ## Compiling the (de)serializer
-The C++ portion of this has no dependencies.
+The C++ portion of this has no dependencies. I wrote it with C++20 in mind, but it can probably work with older standards with some tweaking.
 
 All you need is to compile the `main.cpp` file in your favorite compiler.
 Personally, I used Microsoft Visual C++.
