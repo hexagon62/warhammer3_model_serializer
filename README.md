@@ -5,8 +5,9 @@ Intended for use with [Blender](https://www.blender.org/),
 [AssetEditor](https://github.com/donkeyProgramming/TheAssetEditor),
 and [RME](https://github.com/mr-phazer/RME_Release).
 
-As I am not part of the Warhammer modding community, I currently have no intention of maintaining or updating this program.
-I am providing the program as-is.
+This program is provided as-is and I don't currently plan to update or maintain it.
+
+However, if you experience issues with it, feel free to let Lt. Rocky or me know.
 
 ## Credits
 The C++ portion of this is a program I wrote which was requested by Lt. Rocky.
